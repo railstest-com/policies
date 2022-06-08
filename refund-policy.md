@@ -1,4 +1,4 @@
-# Return and Refund Policy
+# Refund Policy
 
 Last updated: June 07, 2022
 
