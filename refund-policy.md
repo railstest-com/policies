@@ -6,13 +6,13 @@ If, for any reason, You are not completely satisfied with a purchase We invite Y
 
 The following terms are applicable for any purchases that You purchased with Us.
 
-# Interpretation and Definitions
+## Interpretation and Definitions
 
-## Interpretation
+### Interpretation
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-## Definitions
+### Definitions
 
 For the purposes of this Return and Refund Policy:
 
@@ -28,7 +28,7 @@ For the purposes of this Return and Refund Policy:
 - __Website__ refers to Rails Test, accessible from [https://railstest.com](https://railstest.com)
 - __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-# Your Order Cancellation Rights
+## Your Order Cancellation Rights
 
 You are entitled to cancel Your Order within 24 hours without giving any reason for doing so, provided that You have not already invited a Candidate to be tested. Once you invite a Candidate, the Order is considered to be processed and You may not receive a Full Refund.
 
